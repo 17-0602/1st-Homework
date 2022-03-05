@@ -32,4 +32,6 @@ THEN I find a concise, descriptive title
 The following image shows the web application's appearance and functionality:
 ![WebApperance](./assets/images/01-html-css-git-homework-demo.png)
 
-
+## Deployed app
+By clicking on the following link, you can access to deployed app:
+<link>https://17-0602.github.io/1st-Homework/</link>
