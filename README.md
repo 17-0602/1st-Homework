@@ -36,4 +36,4 @@ The following image shows the web application's appearance and functionality:
 By clicking on the following link, you can access the deployed app: <link>https://17-0602.github.io/1st-Homework/</link>
 
 
-By clicking on the following link, you can access the repo on GitHub: <link>https://github.com/17-0602/1st-Homework.git</link>
+By clicking on the following link, you can access the repo on GitHub: <link>https://github.com/17-0602/Horiseon-Webpage-Practice</link>
